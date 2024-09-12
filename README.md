@@ -4,7 +4,7 @@
 
 All announcements are located in the `content/posts` directory.  They are written in Markdown (`.md`). Files should be named `YYYY-MM-DD-unique-title`.
 
-Announcements will display all content on the news page.  Unlike blog posts, be sure to omit `layout` and `preview` fields.
+Announcements will display all content on the news page.  Unlike blog posts, be sure to omit `layout` and `preview` fields...
 
 
 ```md
